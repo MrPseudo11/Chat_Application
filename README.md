@@ -1,1 +1,4 @@
-This the Simple chat application project in java using swing (GUI), Socket Program(Connection between the server and the client),also use the concept of threading 
+# Chat Application Java:
+<br>Java swing (GUI),
+<br>Socket Program(Connection between the server and the client),
+<br>Multi-threading 
